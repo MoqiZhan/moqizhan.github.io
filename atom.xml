@@ -4,7 +4,7 @@
   <subtitle><![CDATA[人生就是不停的战斗]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.moqizhan.com/"/>
-  <updated>2014-11-06T15:12:03.782Z</updated>
+  <updated>2014-11-06T15:47:50.679Z</updated>
   <id>http://www.moqizhan.com/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://www.moqizhan.com/2012/12/22/hello-world/"/>
-    <id>http://www.moqizhan.com/2012/12/22/hello-world/</id>
-    <published>2012-12-21T16:00:00.000Z</published>
-    <updated>2014-11-06T15:11:54.000Z</updated>
+    <link href="http://www.moqizhan.com/2012/12/23/hello-world/"/>
+    <id>http://www.moqizhan.com/2012/12/23/hello-world/</id>
+    <published>2012-12-22T16:00:00.000Z</published>
+    <updated>2014-11-06T15:47:45.000Z</updated>
     <content type="html"><![CDATA[<p>New world, New start!</p>
 ]]></content>
     <summary type="html">
