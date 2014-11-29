@@ -15,44 +15,44 @@
 #u1 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:44px;
   width:320px;
-  height:568px;
+  height:524px;
 }
 #u1_img {
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
-  height:568px;
+  height:524px;
 }
 #u2 {
   position:absolute;
   left:2px;
-  top:276px;
+  top:254px;
   width:316px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u3 {
   position:absolute;
-  left:1px;
-  top:1px;
-  width:318px;
+  left:0px;
+  top:0px;
+  width:320px;
   height:44px;
 }
 #u3_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:318px;
+  width:320px;
   height:44px;
 }
 #u4 {
   position:absolute;
   left:2px;
   top:14px;
-  width:314px;
+  width:316px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -130,7 +130,7 @@
 #u11 {
   position:absolute;
   left:11px;
-  top:80px;
+  top:60px;
   width:300px;
   height:100px;
 }
@@ -152,7 +152,7 @@
 #u13 {
   position:absolute;
   left:20px;
-  top:113px;
+  top:93px;
   width:71px;
   height:44px;
 }
@@ -174,7 +174,7 @@
 #u15 {
   position:absolute;
   left:20px;
-  top:87px;
+  top:67px;
   width:277px;
   height:20px;
   font-family:'AmericanTypewriter', 'American Typewriter';
@@ -199,7 +199,7 @@
 #u17 {
   position:absolute;
   left:104px;
-  top:114px;
+  top:94px;
   width:196px;
   height:26px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
@@ -224,7 +224,7 @@
 #u19 {
   position:absolute;
   left:20px;
-  top:162px;
+  top:142px;
   width:280px;
   height:13px;
   font-family:'STSongti-SC-Regular', 'Songti SC';
@@ -250,7 +250,7 @@
 #u21 {
   position:absolute;
   left:11px;
-  top:190px;
+  top:170px;
   width:300px;
   height:120px;
 }
@@ -272,7 +272,7 @@
 #u23 {
   position:absolute;
   left:20px;
-  top:242px;
+  top:222px;
   width:71px;
   height:44px;
 }
@@ -294,7 +294,7 @@
 #u25 {
   position:absolute;
   left:20px;
-  top:197px;
+  top:177px;
   width:277px;
   height:37px;
   font-family:'AmericanTypewriter', 'American Typewriter';
@@ -318,7 +318,7 @@
 #u27 {
   position:absolute;
   left:104px;
-  top:243px;
+  top:223px;
   width:196px;
   height:26px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
@@ -343,7 +343,7 @@
 #u29 {
   position:absolute;
   left:20px;
-  top:292px;
+  top:272px;
   width:280px;
   height:13px;
   font-family:'STSongti-SC-Regular', 'Songti SC';
@@ -369,7 +369,7 @@
 #u31 {
   position:absolute;
   left:11px;
-  top:320px;
+  top:300px;
   width:300px;
   height:100px;
 }
@@ -391,7 +391,7 @@
 #u33 {
   position:absolute;
   left:20px;
-  top:353px;
+  top:333px;
   width:71px;
   height:44px;
 }
@@ -413,7 +413,7 @@
 #u35 {
   position:absolute;
   left:20px;
-  top:327px;
+  top:307px;
   width:277px;
   height:20px;
   font-family:'AmericanTypewriter', 'American Typewriter';
@@ -438,7 +438,7 @@
 #u37 {
   position:absolute;
   left:103px;
-  top:354px;
+  top:334px;
   width:196px;
   height:26px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
@@ -463,7 +463,7 @@
 #u39 {
   position:absolute;
   left:20px;
-  top:402px;
+  top:382px;
   width:280px;
   height:13px;
   font-family:'STSongti-SC-Regular', 'Songti SC';
@@ -489,7 +489,7 @@
 #u41 {
   position:absolute;
   left:11px;
-  top:430px;
+  top:410px;
   width:300px;
   height:100px;
 }
@@ -511,7 +511,7 @@
 #u43 {
   position:absolute;
   left:20px;
-  top:463px;
+  top:443px;
   width:71px;
   height:44px;
 }
@@ -533,7 +533,7 @@
 #u45 {
   position:absolute;
   left:20px;
-  top:437px;
+  top:417px;
   width:277px;
   height:20px;
   font-family:'AmericanTypewriter', 'American Typewriter';
@@ -558,7 +558,7 @@
 #u47 {
   position:absolute;
   left:103px;
-  top:464px;
+  top:444px;
   width:196px;
   height:26px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
@@ -583,7 +583,7 @@
 #u49 {
   position:absolute;
   left:20px;
-  top:512px;
+  top:492px;
   width:280px;
   height:13px;
   font-family:'STSongti-SC-Regular', 'Songti SC';
@@ -609,7 +609,7 @@
 #u51 {
   position:absolute;
   left:11px;
-  top:72px;
+  top:60px;
   width:300px;
   height:468px;
   overflow:hidden;

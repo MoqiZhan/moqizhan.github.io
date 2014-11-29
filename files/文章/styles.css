@@ -15,51 +15,51 @@
 #u1 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:460px;
   width:320px;
-  height:548px;
+  height:44px;
 }
 #u1_img {
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
-  height:548px;
+  height:44px;
 }
 #u2 {
   position:absolute;
   left:2px;
-  top:266px;
+  top:14px;
   width:316px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u3 {
   position:absolute;
-  left:1px;
-  top:503px;
-  width:318px;
-  height:44px;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:460px;
 }
 #u3_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:318px;
-  height:44px;
+  width:320px;
+  height:460px;
 }
 #u4 {
   position:absolute;
   left:2px;
-  top:14px;
-  width:314px;
+  top:222px;
+  width:316px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u5 {
   position:absolute;
-  left:12px;
-  top:514px;
+  left:13px;
+  top:472px;
   width:12px;
   height:19px;
 }
